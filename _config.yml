@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brandon Yang"
 title_separator          : "-"
 name                     : &name "Brandon Yang"
-description              : &description "Systems for machine learning. Previously Google Brain / Stanford."
+description              : &description "Building systems for machine learning. Previously Google Brain / Stanford."
 url                      : "https://bclyang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bclyang/bclyang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Brandon Yang"
   avatar           : "profile.png"
-  bio              : "Systems for machine learning. Previously Google Brain / Stanford."
+  bio              : "Building systems for machine learning. Previously Google Brain / Stanford."
   location         :
   employer         :
   pubmed           :
